@@ -36,5 +36,4 @@ public class Juego {
     @JoinColumn(name = "usuario_id")
     private Usuario usuario;
 
-
 }
